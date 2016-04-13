@@ -1,11 +1,7 @@
-== README
+== Raddit 
+A rails app based off of Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
+* Ruby: 2.2.3
 
 * System dependencies
 
@@ -15,14 +11,10 @@ Things you may want to cover:
 
 * Database initialization
 
-* How to run the test suite
+* Run Test Suite: Nothing yet.
 
-* Services (job queues, cache servers, search engines, etc.)
+* First RoR app. 
 
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+==Thanks
+Contact: themoarmstrong@gmail.com
+Twitter: @themoarmstrong
