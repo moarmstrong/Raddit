@@ -15,6 +15,6 @@ A rails app based off of Reddit
 
 * First RoR app. 
 
-==Thanks
-Contact: themoarmstrong@gmail.com
+==Contact
+Email: themoarmstrong@gmail.com
 Twitter: @themoarmstrong
