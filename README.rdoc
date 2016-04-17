@@ -13,7 +13,7 @@ A rails app based off of Reddit
 
 * Run Test Suite: Nothing yet..
 
-* First RoR app. 
+* First RoR app..
 
 ==Contact
 Email: themoarmstrong@gmail.com
