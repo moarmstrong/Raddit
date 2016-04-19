@@ -11,7 +11,7 @@ A rails app based off of Reddit
 
 * Database initialization
 
-* Run Test Suite: Nothing yet..
+* Run Test Suite: Nothing yet...
 
 * First RoR app...
 
